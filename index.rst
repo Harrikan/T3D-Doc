@@ -10,6 +10,7 @@ Introduction
 
 .. toctree::
 	:maxdepth: 1
+	:caption: introduction
 
 	intro/intro
 	intro/setup
